@@ -1,4 +1,4 @@
 <?php
-echo "Shane's Simple PHP test app running on OpenShift";
+echo "Shane's Simple PHP test app.";
 phpinfo();
 ?>
